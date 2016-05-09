@@ -1,0 +1,8 @@
+{
+        "dev": {
+                "s3_bucket": "ebellows-for-zappa",
+                "app_function": "hello.app",
+                "parameter_depth": 2,
+                "memory_size": 256
+        }
+}
